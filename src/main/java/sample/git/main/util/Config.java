@@ -7,10 +7,11 @@ import java.io.File;
  */
 public class Config {
 
-    private File configFile = null;
+    private File configFile = null;   
 
     public Config(File file){
         this.configFile = file;
+        System.out.println("file set");
     }
 
     public boolean isExists(){
