@@ -7,5 +7,8 @@ public class MainApp {
     public static void main(String[] args) {
         System.out.println("ein test für branch");
         System.out.println("test nummer 2");
+        System.out.println("test nummer 2");
+        SamplePrinter.print();
+
     }
 }
