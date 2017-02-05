@@ -5,8 +5,6 @@ package sample.git.main;
  */
 public class SamplePrinter {
     public static void print(){
-        System.out.println("einfach nur ein text");
         System.out.println("noch ein kleiner test");
-
     }
 }
